@@ -1,2 +1,3 @@
 # App-perpus-vb.net
-di peruntukan untuk UAS 
+
+baca dulu panduan database direadme ya 
