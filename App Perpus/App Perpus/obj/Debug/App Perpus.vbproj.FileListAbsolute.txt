@@ -1,0 +1,18 @@
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\bin\Debug\App Perpus.exe.config
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\bin\Debug\App Perpus.exe
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\bin\Debug\App Perpus.pdb
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\bin\Debug\App Perpus.xml
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App Perpus.vbprojAssemblyReference.cache
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormMenuUtama.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.Resources.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App Perpus.vbproj.GenerateResource.cache
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App Perpus.vbproj.CoreCompileInputs.cache
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App Perpus.exe
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App Perpus.xml
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App Perpus.pdb
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormLogin.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormMasterPetugas.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormMasterAnggota.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormMasterBuku.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormTransaksiPeminjaman.resources
+C:\Users\Dedy Supratman\Documents\App Perpus\App Perpus\obj\Debug\App_Perpus.FormPengembalianBuku.resources
