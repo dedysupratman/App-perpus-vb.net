@@ -1,4 +1,4 @@
-﻿Public Class FormMenuUtama
+Public Class FormMenuUtama
     Private Sub KeluarToolStripMenuItem_Click(sender As Object, e As EventArgs)
         End
     End Sub
@@ -8,8 +8,6 @@
         LogoutToolStripMenuItem.Enabled = False
         MasterToolStripMenuItem.Enabled = False
         TransaksiToolStripMenuItem.Enabled = False
-        UtilityToolStripMenuItem.Enabled = False
-        LaporanToolStripMenuItem.Enabled = False
     End Sub
 
     Private Sub FormMenuUtama_Load(sender As Object, e As EventArgs) Handles MyBase.Load
