@@ -26,8 +26,6 @@ Public Class FormLogin
         FormMenuUtama.LogoutToolStripMenuItem.Enabled = True
         FormMenuUtama.MasterToolStripMenuItem.Enabled = True
         FormMenuUtama.TransaksiToolStripMenuItem.Enabled = True
-        FormMenuUtama.UtilityToolStripMenuItem.Enabled = True
-        FormMenuUtama.LaporanToolStripMenuItem.Enabled = True
     End Sub
 
     Private Sub FormLogin_Load(sender As Object, e As EventArgs) Handles MyBase.Load
